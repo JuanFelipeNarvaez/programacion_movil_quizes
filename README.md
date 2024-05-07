@@ -7,3 +7,5 @@ git commit -m "first commit" //
 git branch -M main //
 git remote add origin https://github.com/JuanFelipeNarvaez/programacion_movil_quizes.git //
 git push -u origin main //
+
+la carpeta actividad-clase es donde se encuentra el segundo quiz del corte
